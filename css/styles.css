@@ -340,10 +340,19 @@ img {
     text-align: center;
 }
 
-
-
 .out {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    width: 40px;
     height: 40px;
+
+}
+
+.ourt {
+    height: 40px;
+    display: flex;
+
 
 }
 
