@@ -329,11 +329,14 @@ img {
     text-align: center;
 }
 
-.out {
+.our {
     display: flex;
     justify-content: center;
     gap: 24px;
-    width: 40px;
+    width: 40px
+}
+
+.out {
     height: 40px;
 }
 
