@@ -360,8 +360,17 @@ img {
     height: 40px;
     display: flex;
 
-
+    width: 100%;
+    height: 100%;
+    background-color: #4d5ae5;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
+
+
+
 
 .portfolio-title {
     font-size: 36px;
@@ -438,4 +447,7 @@ img {
 
 .footer-item {
     display: block;
+    display: flex;
+    align-items: baseline;
+
 }
