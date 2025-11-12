@@ -453,8 +453,10 @@ img {
 
 .footer-item {
     display: block;
-
+    display: flex;
+    align-items: baseline;
 }
+
 
 .soci {
     font-weight: 500;
