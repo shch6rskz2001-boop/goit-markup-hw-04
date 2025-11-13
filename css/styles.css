@@ -115,11 +115,9 @@ img {
 
 }
 
-.current>a {
-    color: #404bbf;
-}
 
-.current::after {
+
+.nav-link-one::after {
     content: '';
     position: absolute;
     left: 0;
@@ -130,7 +128,9 @@ img {
     border-radius: 2px;
 }
 
-
+.nav-link-one {
+    color: #404bbf;
+}
 
 .nav-link:hover,
 .nav-link:focus {
