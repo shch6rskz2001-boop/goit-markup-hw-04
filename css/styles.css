@@ -384,18 +384,6 @@ img {
 }
 
 
-.portfolio-list-item {
-    position: absolute;
-    top: 0;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #f4f4fd;
-    padding: 40px 32px;
-    background-color: #4d5ae5;
-    height: 100%;
-    width: 100%;
-}
 
 .portfolio-title {
     font-size: 36px;
@@ -407,7 +395,8 @@ img {
     margin-bottom: 72px
 }
 
-.portfolio-list-title {
+
+.portfolio-list-item {
     background-color: #4d5ae5;
     border-radius: 50%;
     display: flex;
