@@ -600,6 +600,14 @@ img {
     height: 100%;
 }
 
+.social :hover {
+    background-color: #31d0aa;
+}
+
+.social :focus {
+    background-color: #31d0aa;
+}
+
 .socia {
     display: flex;
     justify-content: space-between;
