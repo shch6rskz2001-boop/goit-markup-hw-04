@@ -459,7 +459,7 @@ img {
     transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
     display: flex;
     flex-direction: column;
-    width: calc((818px - 48px) / 3);
+    width: calc((100% - 48px) / 3);
 }
 
 .portfolio-text {
@@ -526,7 +526,6 @@ img {
     text-transform: uppercase;
     color: #4d5ae5;
     display: inline-block;
-    margin-bottom: 16px;
 }
 
 .юportfolio-item:hover {
@@ -596,7 +595,6 @@ img {
     background-color: #4d5ae5;
     border-radius: 50%;
     fill: #f4f4fd;
-    padding: 8px;
     display: flex;
     flex-wrap: wrap;
     flex-direction: column;
